@@ -5,11 +5,6 @@ The goal of this project is to analyze employee retention data to uncover insigh
   <img src="/screenshots/dashboard.jpg" width="800">
 </p>
 
-## Summary
-|     Jupyter Notebook                       |     Power BI Dashboard|     Published Article|    Deployed App on Hugging Face     
-| -------------                  | -------------    | -------------    |    -----------------    
-|[Notebook with analysis and model development](https://github.com/rasmodev/Employee-Attrition-Prediction/blob/main/notebooks/Employee_Attrition.ipynb)|  [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzFjZTk5NTctMWNkMS00ZTIzLWI4ZGYtYjEzZGU1MjAyOGFiIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |  [Published Article on Medium]() |[Link to Deployed Streamlit App](https://rasmodev-employee-attrition-prediction-app.hf.space)
-
 ## App Interface
 After clicking on the link to the working APP, provide the required details, and click on the **"PREDICT"** button.
 
